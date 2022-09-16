@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://AllanCapetTI.github.io/NLW-eSports-Explorer/)
+[🔗 Clique aqui para acessar](https://allancapetti.github.io/NLW-eSports-Explorer/)
 
 ## 🧠 Tecnologias Utilizadas no Projeto.
 
